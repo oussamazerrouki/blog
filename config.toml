@@ -55,13 +55,13 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "Another blog about Tech"
+  description = ""
   keywords = "Devops, Security, Velocity, SRE, Reliability"
   images = [""]
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "DevOps Engineer @ Thales"
+  homeSubtitle = "DevOps working @ Thales"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
