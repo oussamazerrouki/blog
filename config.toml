@@ -110,10 +110,10 @@ disableHugoGeneratorInject = false
   # If you want, you can easily override the default footer with your own content. 
   #
   [params.footer]
-    trademark = true
-    rss = true
-    copyright = true
-    author = true
+    trademark = false
+    rss = false
+    copyright = false
+    author = false
 
     topText = []
 
@@ -165,7 +165,7 @@ disableHugoGeneratorInject = false
     url  = "https://www.linkedin.com/in/oussamazerrouki"
 
 [languages]
-  [languages.en]
+  [languages.en.params]
     subtitle  = "DevOps Engineer"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'

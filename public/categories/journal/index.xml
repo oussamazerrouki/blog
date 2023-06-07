@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>journal on Oussama Zerrouki</title>
+    <link>https://www.oussamazerrouki.com/categories/journal/</link>
+    <description>Recent content in journal on Oussama Zerrouki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.oussamazerrouki.com/categories/journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Failure builds resilience</title>
+      <link>https://www.oussamazerrouki.com/posts/2022/10/failure-builds-resilience/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.oussamazerrouki.com/posts/2022/10/failure-builds-resilience/</guid>
+      <description>Unfortunately, we can&amp;rsquo;t build resilience on success alone, learning from past mistakes is of prominent importance for successful future behavior.
+It takes failure for us to build strength and work out how to deal with failure.
+A life of unbroken success doesn&amp;rsquo;t test us; if we are untested, then we are unprepared for what might come.
+The same thing can be said about systems and services.
+This is what most businesses fail to understand.</description>
+    </item>
+    
+  </channel>
+</rss>
