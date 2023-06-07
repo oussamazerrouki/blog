@@ -161,24 +161,8 @@ disableHugoGeneratorInject = false
     url  = "mailto:contact@oussamazerrouki.com"
 
   [[params.social]]
-    name = "github"
-    url  = "https://github.com/osaroki"
-
-  [[params.social]]
     name = "linkedin"
     url  = "https://www.linkedin.com/in/oussamazerrouki"
-    
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/osarroki"
-
-  [[params.social]]
-    name = "twitch"
-    url  = "https://www.twitch.tv/osaroki"
-  
-  [[params.social]]
-    name = "discord"
-    url  = "https://discordapp.com/users/806882215132790815"
 
 [languages]
   [languages.en]
