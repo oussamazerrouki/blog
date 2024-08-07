@@ -11,9 +11,6 @@ rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
 
-[services]
-  [services.googleAnalytics]
-    ID = 'G-BWERDN2THP'
 
 [permalinks]
   posts = "/posts/:year/:month/:title/"
@@ -27,6 +24,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   category = "categories"
   series   = "series"
 
+    
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -159,3 +157,10 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-BWERDN2THP'
+  
+  [services.Disqus]
+    Shortname = "YOUR_DISQUS_SHORTNAME"
