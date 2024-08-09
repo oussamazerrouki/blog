@@ -7,7 +7,7 @@ aliases = ["about-us","about-me","contact"]
 +++
 
 * Oussama Zerrouki
-* DevOps Engineer
+* Platform Engineer
 * Mostly Self-taught
-* 29 years old
+* 31 years old
 * France - Lille

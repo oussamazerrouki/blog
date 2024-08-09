@@ -138,9 +138,9 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     name = "email"
     url  = "mailto:contact@oussamazerrouki.com"
 
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/oussamazerrouki"
+#  [[params.social]]
+#    name = "linkedin"
+#    url  = "https://www.linkedin.com/in/oussamazerrouki"
 
 [languages]
   [languages.en.params]
